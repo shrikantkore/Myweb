@@ -1,0 +1,10 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+   "dependencies":{"express":"","body-parser":"" },
+  "scripts": {"test": "echo \"Error: no test specified\" && exit 1"},
+  "author": "shree",
+  "license": "ISC"
+}
